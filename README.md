@@ -1,42 +1,39 @@
-# Snake Game
-### React Snake Game
+# 🐍 Snake Game (Python)
 
-A modern implementation of the classic Snake game built with React, TypeScript, and Tailwind CSS.
+A **classic Snake game** implemented in **Python** using **Tkinter**.
 
 ![Game Preview](./project/img/preview.jpg)
 
-## Features
+## 🚀 Features
 
-- Smooth snake movement with arrow key controls
-- Score tracking with high score persistence
-- Pause/Resume functionality
-- Game over detection with restart option
-- Responsive design
-- Beautiful UI with Tailwind CSS
+- 🎮 Smooth movement with arrow key controls  
+- 🏆 Score tracking  
+- ⏸️ Pause & Restart functionality  
+- ⚠️ Game over detection  
+- 🎨 Simple and clean UI  
+- 🖥️ Playable in a standalone window  
 
-## Technologies Used
+## 🛠 Technologies Used
 
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-- Lucide React Icons
+- 🐍 Python  
+- 🖼️ Tkinter  
+- 🎲 Random module  
 
-## How to Play
+## 🎮 How to Play
 
-1. Use arrow keys to control the snake's direction.
-2. Eat the red food to grow and score points.
-3. Avoid hitting the walls or the snake's own body.
-4. Press **SPACE** to pause/resume the game.
-5. Try to beat your high score!
+1. **Arrow Keys** → Move the snake.  
+2. **Eat the red dot** → Grow and increase your score.  
+3. **Avoid walls and yourself** → Or it's **Game Over**!  
+4. **Press SPACE / ENTER** → Start a new game.  
 
-## Development
+## 🏗 Installation & Setup
 
-To run this project locally:
+To run the game locally:
 
 ```bash
-# Install dependencies
-npm install
+# Clone the repository
+git clone https://github.com/yourusername/snake-game-python.git
+cd snake-game-python
 
-# Start development server
-npm run dev
+# Run the game
+python snake.py
