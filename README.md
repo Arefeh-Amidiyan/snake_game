@@ -6,6 +6,7 @@ A **classic Snake game** implemented in **Python** using **Tkinter**.
 
 ## 🚀 Features  
 
+<<<<<<< HEAD
 - 🎮 Smooth movement with arrow key controls  
 - 🏆 Score tracking  
 - ⚠️ Game over detection  
@@ -17,6 +18,20 @@ A **classic Snake game** implemented in **Python** using **Tkinter**.
 - 🐍 Python  
 - 🖼️ Tkinter  
 - 🎲 Random module  
+=======
+- Smooth snake movement with arrow key controls
+- Score tracking with high score persistence
+- Game over detection with restart option
+- Responsive design
+- Beautiful UI with Tailwind CSS
+
+
+## 🛠 Technologies Used  
+
+- 🐍 Python  
+- 🖼️ Tkinter  
+- 🎲 Random module 
+>>>>>>> 26b64f4 (Change READ.md file and the picture)
 
 ## 🎮 How to Play  
 
@@ -28,6 +43,7 @@ A **classic Snake game** implemented in **Python** using **Tkinter**.
 ## 🏗 Installation & Setup  
 
 To run the game locally, follow these steps:  
+<<<<<<< HEAD
 
 ```bash  
 # Clone the repository  
@@ -40,3 +56,21 @@ npm install
 npm run dev
 # Go to this address
 http://localhost:5173/
+=======
+
+```bash  
+# Clone the repository  
+git clone https://github.com/Arefeh-Amidiyan/snake_game.git  
+cd project  
+
+# Run the game
+# Install dependencies
+
+npm install
+# Start development server
+
+npm run dev
+# Go to this address
+http://localhost:5173/
+
+>>>>>>> 26b64f4 (Change READ.md file and the picture)
