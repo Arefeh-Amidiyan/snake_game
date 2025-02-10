@@ -36,13 +36,7 @@ cd project
 
 # Run the game
 
-React Version:
-
 npm install
 npm run dev
-
-Python Version:
-
-python snake.py
-# or
-python3 snake.py
+# Go to this address
+http://localhost:5173/
