@@ -16,12 +16,6 @@ A **classic Snake game** implemented in **Python** using **Tkinter**.
 
 - 🐍 Python  
 - 🖼️ Tkinter  
-- 🎲 Random module  
-
-## 🛠 Technologies Used  
-
-- 🐍 Python  
-- 🖼️ Tkinter  
 - 🎲 Random module 
 
 ## 🎮 How to Play  
@@ -35,23 +29,23 @@ A **classic Snake game** implemented in **Python** using **Tkinter**.
 
 To run the game locally, follow these steps:  
 
-```bash  
 # Clone the repository  
+   ```bash
 git clone https://github.com/Arefeh-Amidiyan/snake_game.git  
 cd project  
-
-```bash  
-# Clone the repository  
-git clone https://github.com/Arefeh-Amidiyan/snake_game.git  
-cd project  
+```  
 
 # Run the game
 
-# Install dependencies
+## Install dependencies
+```bash  
 npm install
-
-# Start development server
+```
+## Start development server
+```bash
 npm run dev
-
-# Go to this address
+```
+## Go to this address
+```bash
 http://localhost:5173/
+```
