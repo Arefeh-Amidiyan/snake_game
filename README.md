@@ -32,7 +32,7 @@ To run the game locally, follow these steps:
 ```bash  
 # Clone the repository  
 git clone https://github.com/Arefeh-Amidiyan/snake_game.git  
-cd snake_game  
+cd project  
 
 # Run the game
 
