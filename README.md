@@ -5,6 +5,7 @@ A modern implementation of the classic Snake game built with React, TypeScript, 
 
 ![Game Preview](./img/preview.png)
 
+
 ## Features
 
 - Smooth snake movement with arrow key controls
