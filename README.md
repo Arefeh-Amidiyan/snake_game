@@ -8,7 +8,6 @@ A **classic Snake game** implemented in **Python** using **Tkinter**.
 
 - 🎮 Smooth movement with arrow key controls  
 - 🏆 Score tracking  
-- ⏸️ Pause & Restart functionality  
 - ⚠️ Game over detection  
 - 🎨 Simple and clean UI  
 - 🖥️ Playable in a standalone window  
