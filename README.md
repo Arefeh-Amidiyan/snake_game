@@ -3,7 +3,7 @@
 
 A modern implementation of the classic Snake game built with React, TypeScript, and Tailwind CSS.
 
-![Game Preview](./project/img/preview.png)
+![Game Preview](./project/img/preview.jpg)
 
 ## Features
 
