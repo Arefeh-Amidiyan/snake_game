@@ -64,12 +64,13 @@ git clone https://github.com/Arefeh-Amidiyan/snake_game.git
 cd project  
 
 # Run the game
+
 # Install dependencies
-
 npm install
-# Start development server
 
+# Start development server
 npm run dev
+
 # Go to this address
 http://localhost:5173/
 
