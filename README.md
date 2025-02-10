@@ -1,10 +1,10 @@
-# 🐍 Snake Game (Python)
+# 🐍 Snake Game (Python)  
 
-A **classic Snake game** implemented in **Python** using **Tkinter**.
+A **classic Snake game** implemented in **Python** using **Tkinter**.  
 
-![Game Preview](./project/img/preview.jpg)
+![Game Preview](./project/img/preview.jpg)  
 
-## 🚀 Features
+## 🚀 Features  
 
 - 🎮 Smooth movement with arrow key controls  
 - 🏆 Score tracking  
@@ -13,27 +13,27 @@ A **classic Snake game** implemented in **Python** using **Tkinter**.
 - 🎨 Simple and clean UI  
 - 🖥️ Playable in a standalone window  
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used  
 
 - 🐍 Python  
 - 🖼️ Tkinter  
 - 🎲 Random module  
 
-## 🎮 How to Play
+## 🎮 How to Play  
 
 1. **Arrow Keys** → Move the snake.  
 2. **Eat the red dot** → Grow and increase your score.  
 3. **Avoid walls and yourself** → Or it's **Game Over**!  
 4. **Press SPACE / ENTER** → Start a new game.  
 
-## 🏗 Installation & Setup
+## 🏗 Installation & Setup  
 
-To run the game locally:
+To run the game locally, follow these steps:  
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/snake-game-python.git
-cd snake-game-python
+```bash  
+# Clone the repository  
+git clone https://github.com/yourusername/snake-game-python.git  
+cd snake-game-python  
 
-# Run the game
+# Run the game  
 python snake.py
