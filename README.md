@@ -34,14 +34,14 @@ To run the game locally, follow these steps:
 git clone https://github.com/Arefeh-Amidiyan/snake_game.git  
 cd snake_game  
 
-# Run the game  
-React Version:
+# Run the game
 
+React Version:
 
 npm install
 npm run dev
-Python Version:
 
+Python Version:
 
 python snake.py
 # or
