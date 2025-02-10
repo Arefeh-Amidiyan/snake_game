@@ -45,7 +45,7 @@ npm install
 ```bash
 npm run dev
 ```
-## Go to this address
+## Go to the address on your browser
 ```bash
-http://localhost:5173/
+http://localhost:.../
 ```
