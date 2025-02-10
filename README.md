@@ -31,8 +31,18 @@ To run the game locally, follow these steps:
 
 ```bash  
 # Clone the repository  
-git clone https://github.com/yourusername/snake-game-python.git  
-cd snake-game-python  
+git clone https://github.com/Arefeh-Amidiyan/snake_game.git  
+cd snake_game  
 
 # Run the game  
+React Version:
+
+
+npm install
+npm run dev
+Python Version:
+
+
 python snake.py
+# or
+python3 snake.py
