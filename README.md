@@ -49,3 +49,7 @@ npm run dev
 ```bash
 http://localhost:.../
 ```
+## Contact
+For any inquiries or feedback, please contact:
+- **Email:** trinityamid@gmail.com
+- **GitHub:** [Arefeh-Amidiyan](https://github.com/Arefeh-Amidiyan)
